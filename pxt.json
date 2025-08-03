@@ -1,0 +1,11 @@
+{
+  "name": "ntag213-extension",
+  "description": "NTAG213 support for Micro:bit RC522" yes,
+  "dependencies": {},
+  "files": [
+    "main.ts"
+  ],
+  "targetVersions": {
+    "microbit": "*"
+  }
+}
